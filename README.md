@@ -1,7 +1,7 @@
 ### Hello World
 Hi, I'm Nikhil 👋
 
-![age](https://img.shields.io/badge/age-27-blue)
+![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-mumbai-3c9)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=codernik.github.profile)
